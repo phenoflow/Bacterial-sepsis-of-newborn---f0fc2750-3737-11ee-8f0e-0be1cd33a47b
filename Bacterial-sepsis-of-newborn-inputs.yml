@@ -1,0 +1,39 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/fetal-bacterial-sepsis-of-newborn---primary.py
+inputModule3:
+  class: File
+  path: python/bacterial-sepsis-of-newborn-streptococci---primary.py
+inputModule4:
+  class: File
+  path: python/congenital-bacterial-sepsis-of-newborn---primary.py
+inputModule5:
+  class: File
+  path: python/other-bacterial-sepsis-of-newborn---primary.py
+inputModule6:
+  class: File
+  path: python/bacterial-sepsis-of-newborn-staphylococcu---primary.py
+inputModule7:
+  class: File
+  path: python/bacterial-sepsis-of-newborn---primary.py
+inputModule8:
+  class: File
+  path: python/bacterial-sepsis-of-newborn-specified---primary.py
+inputModule9:
+  class: File
+  path: python/bacterial-sepsis-of-newborn-septicaemia---primary.py
+inputModule10:
+  class: File
+  path: python/perinatal-bacterial-sepsis-of-newborn---primary.py
+inputModule11:
+  class: File
+  path: python/bacterial-sepsis-bacterial-sepsis-of-newborn-newborn---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
